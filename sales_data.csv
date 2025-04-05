@@ -1,0 +1,10 @@
+Date,Product,Sales,Profit
+2025-01-01,Product A,100,25
+2025-01-01,Product B,150,30
+2025-01-02,Product A,200,50
+2025-01-02,Product C,250,60
+2025-01-03,Product B,300,75
+2025-01-03,Product C,400,100
+2025-01-04,Product A,500,125
+2025-01-04,Product B,600,150
+2025-01-05,Product C,700,175
